@@ -1,2 +1,2 @@
 # groceries
- Groceries sample app
+ NativeScript groceries sample app
