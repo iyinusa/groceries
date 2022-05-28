@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-social-share",
+        "scope": null,
+        "escapedName": "nativescript-social-share",
+        "name": "nativescript-social-share",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/johnlambs/Desktop/Application/MobileApps/groceries"
+    ]
+  ],
+  "_from": "nativescript-social-share@latest",
+  "_id": "nativescript-social-share@1.5.0",
+  "_inCache": true,
+  "_location": "/nativescript-social-share",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-social-share-1.5.0.tgz_1509992170129_0.27985406247898936"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "5.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-social-share",
+    "scope": null,
+    "escapedName": "nativescript-social-share",
+    "name": "nativescript-social-share",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-social-share/-/nativescript-social-share-1.5.0.tgz",
+  "_shasum": "b4ed85e37694916379073c092562abf897215633",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-social-share",
+  "_where": "/Users/johnlambs/Desktop/Application/MobileApps/groceries",
+  "author": {
+    "name": "TJ VanToll",
+    "email": "tj.vantoll@gmail.com",
+    "url": "http://tjvantoll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-social-share/issues"
+  },
+  "contributors": [
+    {
+      "name": "Eddy Verbruggen",
+      "email": "eddyverbruggen@gmail.com",
+      "url": "https://github.com/EddyVerbruggen"
+    }
+  ],
+  "dependencies": {},
+  "description": "A NativeScript module to use the native social sharing widget",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-l2vbHaCSyPpoxUr/z5oPUNnLVYYMsawIWTydzBSo+XVh9lbfajaEFkACR0HNquEHwx73IH7a7J5l3rF2fiQPOg==",
+    "shasum": "b4ed85e37694916379073c092562abf897215633",
+    "tarball": "https://registry.npmjs.org/nativescript-social-share/-/nativescript-social-share-1.5.0.tgz"
+  },
+  "gitHead": "5540742869de1bf0440c7131fa5ab091e2f81232",
+  "homepage": "https://github.com/tjvantoll/nativescript-social-share",
+  "keywords": [
+    "NativeScript"
+  ],
+  "license": "MIT",
+  "main": "social-share",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    },
+    {
+      "name": "tjvantoll",
+      "email": "tj.vantoll@gmail.com"
+    }
+  ],
+  "name": "nativescript-social-share",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0",
+      "android": "1.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvantoll/nativescript-social-share.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.5.0"
+}

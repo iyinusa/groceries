@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_91d3b1e5af3d65b2bed02fcec00312443dba9ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_7f46d695297d8f79e900644082dd6732316e0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_b26e3e41a0ee3caf9d2c1272513aa4c43a2b89e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_2bac04ea40e9f463ce2ae85aed8c36a58ad756fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_d17c5cec120775939f13d7fe5718be18af72d1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_2d521526dca623068eb2874a29f077eb56a04b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_d17c5cec120775939f13d7fe5718be18af72d1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_1ac1ae6ec0f6ff063cba80babddf7d14c17995b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_53714b80c3fa7cf0b2e5fac771d1056a26116522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_68963826f5a840766fb26653cdaec923416e9c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_504c1e305f0140a811e00b4119f61874c9329a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_8ac569635530c812a83086ed7ab5a333ab4dc34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_360a86732710b86a65d2bd746932a52d3181b22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_1ac1ae6ec0f6ff063cba80babddf7d14c17995b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_53714b80c3fa7cf0b2e5fac771d1056a26116522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_dd3a086eecc3de1fc768fc00898cf5dbd3793984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_db9464d8268c2e500aa783dc653f232f4c3e30e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_7f46d695297d8f79e900644082dd6732316e0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_504c1e305f0140a811e00b4119f61874c9329a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_2d521526dca623068eb2874a29f077eb56a04b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-nativescript-optimized_68963826f5a840766fb26653cdaec923416e9c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_91d3b1e5af3d65b2bed02fcec00312443dba9ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_2bac04ea40e9f463ce2ae85aed8c36a58ad756fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_8ac569635530c812a83086ed7ab5a333ab4dc34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_dd3a086eecc3de1fc768fc00898cf5dbd3793984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_360a86732710b86a65d2bd746932a52d3181b22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_db9464d8268c2e500aa783dc653f232f4c3e30e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/johnlambs/Desktop/Application/MobileApps/groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_b26e3e41a0ee3caf9d2c1272513aa4c43a2b89e3.jar" />
+    </item>
+
+</items>

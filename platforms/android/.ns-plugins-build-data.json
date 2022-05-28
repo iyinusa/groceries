@@ -1,0 +1,9 @@
+{
+	"nativescript-social-share": {
+		"/Users/johnlambs/Desktop/Application/MobileApps/groceries/node_modules/nativescript-social-share/platforms/android/AndroidManifest.xml": "ca6e2ceca22448641563fa6f6c773ef10b292e10",
+		"/Users/johnlambs/Desktop/Application/MobileApps/groceries/node_modules/nativescript-social-share/platforms/android/res/xml/provider_paths.xml": "dbe562dfa44616ea40d88a3cbd74b3e8f44c54f3"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/johnlambs/Desktop/Application/MobileApps/groceries/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "38b5c8fd24d7abbc9cb88290c630b924a29a075d"
+	}
+}
